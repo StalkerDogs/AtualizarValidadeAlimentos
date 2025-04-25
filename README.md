@@ -3,14 +3,22 @@ AtualizarValidadeAlimentos 📅🍎
 Um projeto em Java para gerenciar a validade de alimentos, ajudando no controle de produtos perecíveis em mercados, restaurantes ou sistemas de estoque.
 
 Funcionalidades Principais ✔️
+
 ✅ Atualização de Validade – Permite modificar a data de validade dos produtos.
+
 ✅ Cadastro de Alimentos – Adiciona novos produtos com informações como nome, lote e data de vencimento.
+
 ✅ Alertas de Vencimento – Notifica quando um produto está próximo de expirar.
+
 ✅ Armazenamento de Dados – Pode usar banco de dados (MySQL, SQLite) ou arquivos (CSV, JSON).
+
 ✅ Interface Simples – Console ou GUI (Swing/JavaFX).
 
+
 Tecnologias Utilizadas 🛠️
+
 Linguagem: Java (JDK 8+)
+
 
 Bibliotecas:
 
