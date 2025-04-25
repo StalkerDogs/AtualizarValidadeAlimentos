@@ -32,14 +32,19 @@ Como Executar? ▶️
 Clone o repositório:
 
 bash
+
 git clone https://github.com/StalkerDogs/AtualizarValidadeAlimentos.git
+
 Abra em uma IDE (Eclipse, IntelliJ, VS Code).
 
 Procure a classe principal (Main.java) e execute.
 
+
 (Opcional) Configure um banco de dados, se necessário (verifique arquivos de configuração).
 
+
 Aplicações Práticas 🏪🍴
+
 Controle de estoque em supermercados.
 
 Gestão de insumos em restaurantes e cozinhas industriais.
