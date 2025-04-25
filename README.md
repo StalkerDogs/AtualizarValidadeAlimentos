@@ -1,4 +1,5 @@
 AtualizarValidadeAlimentos 📅🍎
+
 Um projeto em Java para gerenciar a validade de alimentos, ajudando no controle de produtos perecíveis em mercados, restaurantes ou sistemas de estoque.
 
 Funcionalidades Principais ✔️
