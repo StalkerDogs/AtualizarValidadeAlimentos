@@ -31,9 +31,7 @@ Swing/JavaFX (se tiver interface gráfica)
 Como Executar? ▶️
 Clone o repositório:
 
-bash
-
-git clone https://github.com/StalkerDogs/AtualizarValidadeAlimentos.git
+bash   git clone https://github.com/StalkerDogs/AtualizarValidadeAlimentos.git
 
 Abra em uma IDE (Eclipse, IntelliJ, VS Code).
 
