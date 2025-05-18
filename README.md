@@ -1,5 +1,5 @@
 # Esse é o GatãoAI
-##um chatbot assistente IA que se propões a ser seu consultor de economia energética. Não se assuste com sua personalidade, ele é extravagante até demais.
+## Um chatbot assistente IA que se propões a ser seu consultor de economia energética. Não se assuste com sua personalidade, ele é extravagante até demais.
 
 ![GitHub](https://img.shields.io/badge/status-em%20desenvolvimento-yellowgreen)  
 ![Python](https://img.shields.io/badge/Python-3.x-blue)  
