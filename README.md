@@ -40,7 +40,7 @@ O MiauzãoAI é um chatbot assistente que utiliza inteligência artificial (Goog
 ```Plaintext
 
 Usuário: Minha conta de luz subiu muito este mês
-MiauzãoAI: E aí, meu consagrado! Bora desvendar esse mistério da conta lá nas alturas... 
+GatãoAI: E aí, meu consagrado! Bora desvendar esse mistério da conta lá nas alturas... 
 Primeiro, me passa aí: 
 1. Qual foi o gasto em kWh nos últimos 3 meses? 
 2. O valor atual do kWh que tá na sua conta!
