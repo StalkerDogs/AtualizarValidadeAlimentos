@@ -22,8 +22,7 @@ O GatãoAI é um chatbot assistente que utiliza inteligência artificial (Google
 ## 🛠️ Tecnologias Utilizadas  
 
 - Python 3.x  
-- Google Generative AI SDK (Gemini)  
-- dotenv (para gerenciamento de variáveis de ambiente)  
+- Google Generative AI SDK (Gemini)   
 
 ## 🚀 Como Usar  
 
@@ -31,7 +30,7 @@ O GatãoAI é um chatbot assistente que utiliza inteligência artificial (Google
 
 - Conta no Google AI Studio  
 - API Key do Gemini  
-- Python 3.x instalado  
+- Colab Part
 
 ## 💬 Exemplo de Interação
 
