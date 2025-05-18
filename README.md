@@ -7,7 +7,7 @@
 
 ## 📌 Visão Geral  
 
-O MiauzãoAI é um chatbot assistente que utiliza inteligência artificial (Google Gemini) para auxiliar usuários a gerenciar e reduzir o consumo de energia elétrica em suas residências. Com uma personalidade única e cheia de gírias, o bot faz análises personalizadas baseadas nos dados fornecidos pelo usuário.
+O GatãoAI é um chatbot assistente que utiliza inteligência artificial (Google Gemini) para auxiliar usuários a gerenciar e reduzir o consumo de energia elétrica em suas residências. Com uma personalidade única e cheia de gírias, o bot faz análises personalizadas baseadas nos dados fornecidos pelo usuário.
 
 ## ✨ Funcionalidades Principais  
 
@@ -35,7 +35,7 @@ O MiauzãoAI é um chatbot assistente que utiliza inteligência artificial (Goog
 
 ## 💬 Exemplo de Interação
 
-### Veja como você pode interagir com o MiauzãoAI:
+### Veja como você pode interagir com o GatãoAI:
 
 ```Plaintext
 
